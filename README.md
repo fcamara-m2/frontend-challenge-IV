@@ -31,11 +31,6 @@ Não esqueça da otimização de velocidade e nem da experiência do usuário.
 - Salve a opção escolhida no localStorage para persistir após reload
 - Exiba os valores com formatação de moeda brasileira
 
-### Funcionalidades 📝
-
-- 10% dos quadrinhos carregados devem ser marcados como raros (aleatoriamente no próprio fonte ao carregar o REST).
-- Experimente colocar um banner promocional qualquer no meio da listagem de produtos.
-
 ### Critérios de avaliação ✔️
 
 **Entre os critérios de avaliação estão:**
