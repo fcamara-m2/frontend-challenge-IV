@@ -51,7 +51,6 @@ Não esqueça da otimização de velocidade e nem da experiência do usuário.
 - Simulação de mudança de preço no carrinho
 - Uso correto de localStorage
 - Estruturação clara do componente
-- Estruturação clara do componente
 
 **O que nos impressionaria:**
 - [BEM](https://getbem.com/naming/ "BEM")
